@@ -1,1 +1,2 @@
 This is for sending local directory or repository to git.
+Added to remote repo fro local.
